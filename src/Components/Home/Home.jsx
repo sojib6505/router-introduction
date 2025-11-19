@@ -2,6 +2,7 @@
 
 export default function Home() {
   return (
-    <div>Home</div>
+    <div><h1>
+      Home is here</h1></div>
   )
 }
